@@ -1,3 +1,1 @@
-# senai-versoes-colaboracoes
-Repositório de versões e colaborações
-Qualquer coisa
+lembrei do comando: git status
